@@ -37,5 +37,13 @@ The Tip Calculator App is a simple yet powerful application designed to help use
 
 4. **Share Calculation**:
    - Option to share the calculation result via social media or messaging apps
+  
 
+### Wire-Frames
+
+
+
+
+![IMG_0048](https://github.com/nsingh166/TipCalculator/assets/97325703/945d8771-76c1-42cd-892c-a7bac25803c6)
+![IMG_0049](https://github.com/nsingh166/TipCalculator/assets/97325703/c0f838d9-3fe6-4eb1-8125-8eaea924f011)
 
